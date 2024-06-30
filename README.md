@@ -19,7 +19,7 @@ VoiceSurf is a Chrome extension designed to help physically disabled users navig
 2. **Navigate to the Directory**
 
     ```bash
-    cd voice-navigator
+    cd VoiceSurf
     ```
 
 3. **Load the Extension in Chrome**
